@@ -15,25 +15,25 @@
 32bit 系統
 ```
 如要安裝GTA III
-./install_gta3.sh
+./RaspberryPi-re3/install_gta3.sh
 
 如要安裝GTA VC
-./install_gtavc.sh
+./RaspberryPi-re3/install_gtavc.sh
 
 升級
-./update.sh
+./RaspberryPi-re3/update.sh
 ```
 
 64bit 系統
 ```
 如要安裝GTA III
-./install_gta3_64.sh
+./RaspberryPi-re3/install_gta3_64.sh
 
 如要安裝GTA VC
-./install_gtavc_64.sh
+./RaspberryPi-re3/install_gtavc_64.sh
 
 升級
-./update_64.sh
+./RaspberryPi-re3/update_64.sh
 ```
 
 建議:
